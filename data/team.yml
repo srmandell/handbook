@@ -2408,6 +2408,17 @@ jon_galindo:
   links: '[LinkedIn](https://www.linkedin.com/in/jon-galindo)'
   description: 'Jon is a Northern California native who now lives in Central Texas with his wife and three daughters. Prior to Sourcegraph, Jon worked as a DevOps and Site Reliabilty Engineer at VMware. When not behind his computer, Jon enjoys swimming with his kids, smoking BBQ, spending too much money on trading cards, and taking mini adventures with his family.'
 
+samantha_mandell:
+  name: Samantha (Sam) Mandell
+  email: sam.mandell@sourcegraph.com
+  github: srmandell
+  pronouns: she/her
+  role: Commercial Counsel 
+  reports to: director_legal
+  location: Sacramento, CA, USA
+  links: [LinkedIn] (https://linkedin.com/in/srmandell)'
+  description: Sam is a proud Californian and proud graduate of UC Davis. Prior to Sourcegraph, she worked at other high growth tech companies including Flexport and Hopin. She lives in Sacramento with her family, and loves asking people in her personal and professional life if they read the contract. 
+
 cezary_bartoszuk:
   name: Cezary Bartoszuk
   email: cezary.bartoszuk@sourcegraph.com
